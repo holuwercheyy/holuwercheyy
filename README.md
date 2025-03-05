@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## I am an aspiring software engineer
+## 🔭 I am currently undergoing training with Project Learn Africa
+## 🌱 I am currently learning software enineering
+## 📫 You can reach me here: https://github.com/holuwercheyy/
 <!--
 **holuwercheyy/holuwercheyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
