@@ -1,44 +1,36 @@
+# 👋 Hi there, I'm Holuwercheyy!
 
-# 👋 Hi there, I'm Holuwercheyy
-
-## 💻 Aspiring Software Engineer
-
-Welcome to my GitHub profile! I’m **Holuwercheyy**, a passionate and curious aspiring **software engineer** currently undergoing training with **Project Learn Africa**. I'm committed to building interactive, user-friendly software while constantly improving my technical skills.
+🎓 **Aspiring Software Engineer Specializing in AI for Software Engineering**  
+🚀 Currently sharpening my skills through intensive training with **Project Learn Africa**  
+🧠 Passionate about building smart, efficient software powered by Artificial Intelligence  
+💻 Exploring the intersection of **Machine Learning, Automation**, and **Software Development Life Cycle (SDLC)**  
+📚 Continuously learning, experimenting, and collaborating on real-world AI-enhanced tools and systems
 
 ---
 
-### 🔧 Skills in Progress
+## 🧰 Tech Stack & Interests
 
 - **Languages:** Python, JavaScript, HTML5, CSS3  
-- **Frontend Tools:** React.js, Tailwind CSS  
-- **Version Control:** Git & GitHub  
-- **Deployment Platforms:** Netlify, GitHub Pages, Vercel  
-- **Other Tools:** VS Code, Markdown, CLI, JSON  
+- **AI/ML Tools:** Scikit-learn, TensorFlow, Hugging Face, OpenAI, spaCy  
+- **Dev Tools:** Git & GitHub, VS Code, Postman  
+- **Interests:** Intelligent Code Generation, Bug Detection using AI, NLP, Chatbots, Software Process Optimization
 
 ---
 
-### 🚀 What I’m Working On
+## 🎯 Current Goals
 
-- Creating responsive web applications using React & Tailwind CSS  
-- Practicing backend development and API consumption  
-- Building projects with version control using Git  
-- Strengthening my knowledge of data structures and algorithms  
-
----
-
-### 🎯 Goals
-
-- Become job-ready as a full-stack developer  
-- Contribute to real-world open-source projects  
-- Build a strong and creative project portfolio  
-- Continuously learn and grow in the tech space  
+- 🤖 Build AI tools that support code automation, testing, and documentation
+- 🌐 Contribute to open-source projects combining AI + software engineering
+- 💡 Develop full-stack AI-enhanced applications
+- 📈 Study advanced topics like LLMs and prompt engineering
 
 ---
 
-### 📫 Connect with Me
+## 📫 Let's Connect
 
-- GitHub: [holuwercheyy](https://github.com/holuwercheyy)
+- GitHub: [github.com/holuwercheyy](https://github.com/holuwercheyy)
+- Feel free to explore my repositories, drop feedback, or collaborate on projects!
 
 ---
 
-_Thank you for visiting my profile! ⭐_
+> _"Turning smart ideas into smarter code using AI."_  
