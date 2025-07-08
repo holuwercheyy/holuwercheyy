@@ -1,49 +1,44 @@
-# 👋 Hello there, I'm Holuwercheyy!
 
-Welcome to my GitHub profile! I'm an aspiring **Software Engineer** who is passionate about technology, continuous learning, and building real-world solutions.
+# 👋 Hi there, I'm Holuwercheyy
 
----
+## 💻 Aspiring Software Engineer
 
-## 🌟 About Me
-
-- 🔭 I’m currently undergoing training with **Project Learn Africa**, where I'm sharpening my skills in software development.
-- 🌱 I’m currently learning full-stack **Software Engineering**, with a focus on **Python**, **JavaScript**, **HTML/CSS**, and **React**.
-- 🧠 I'm also exploring tools like **Git/GitHub**, **VS Code**, and platforms like **GitHub Pages**, **Netlify**, and **Vercel**.
-- 📫 Want to connect? Reach me here 👉 [https://github.com/holuwercheyy](https://github.com/holuwercheyy)
+Welcome to my GitHub profile! I’m **Holuwercheyy**, a passionate and curious aspiring **software engineer** currently undergoing training with **Project Learn Africa**. I'm committed to building interactive, user-friendly software while constantly improving my technical skills.
 
 ---
 
-## 🛠️ Technologies & Tools I’m Learning
+### 🔧 Skills in Progress
 
-- **Languages:** Python, JavaScript, HTML5, CSS3
-- **Frameworks:** React.js (in progress), Tailwind CSS
-- **Version Control:** Git & GitHub
-- **Deployment:** GitHub Pages, Netlify, Vercel
-- **Others:** VS Code, Markdown, Bash basics
-
----
-
-## 🚀 Projects Coming Soon
-
-I’m currently working on several hands-on projects as part of my training. Some highlights include:
-
-- ✅ ToDo List App with React & Tailwind
-- ✅ JavaScript Events & Interactivity Assignment
-- ✅ Multi-Page Responsive Website Deployment
-- ✅ Sentiment Analysis with Python (NLP project)
-
-Stay tuned for more!
+- **Languages:** Python, JavaScript, HTML5, CSS3  
+- **Frontend Tools:** React.js, Tailwind CSS  
+- **Version Control:** Git & GitHub  
+- **Deployment Platforms:** Netlify, GitHub Pages, Vercel  
+- **Other Tools:** VS Code, Markdown, CLI, JSON  
 
 ---
 
-## 📌 Fun Fact
+### 🚀 What I’m Working On
 
-> "The best way to predict the future is to invent it." – Alan Kay
-
-I believe every line of code is a chance to build the future. Let's create something awesome!
+- Creating responsive web applications using React & Tailwind CSS  
+- Practicing backend development and API consumption  
+- Building projects with version control using Git  
+- Strengthening my knowledge of data structures and algorithms  
 
 ---
 
+### 🎯 Goals
 
-Thank you for visiting my profile! 🙏  
-Let’s connect and build something great 💡
+- Become job-ready as a full-stack developer  
+- Contribute to real-world open-source projects  
+- Build a strong and creative project portfolio  
+- Continuously learn and grow in the tech space  
+
+---
+
+### 📫 Connect with Me
+
+- GitHub: [holuwercheyy](https://github.com/holuwercheyy)
+
+---
+
+_Thank you for visiting my profile! ⭐_
